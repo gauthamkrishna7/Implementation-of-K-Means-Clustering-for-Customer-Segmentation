@@ -117,6 +117,8 @@ plt.title("Customer Segment")
 
 
 
+
+
 ### 6.Y_PRED ARRAY:
 ![image](https://github.com/gauthamkrishna7/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/141175025/3215ec0e-5c5d-4ca5-ad05-534966f6b8da)
 
