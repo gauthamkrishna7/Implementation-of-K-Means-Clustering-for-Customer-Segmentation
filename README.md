@@ -128,7 +128,11 @@ plt.title("Customer Segment")
 ![image](https://github.com/gauthamkrishna7/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/141175025/b212a326-178e-4816-b3b7-de6a4362e6ec)
 
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
