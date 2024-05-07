@@ -112,6 +112,7 @@ plt.title("Customer Segment")
 ### 5.K-MEANS CLUSTERING:
 ![image](https://github.com/HIRU-VIRU/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/145972122/ca848331-3981-42e6-a228-2bf605ea646b)
 
+
 ### 6.Y_PRED ARRAY:
 ![image](https://github.com/HIRU-VIRU/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/145972122/2d12beab-4254-4295-8331-f41137f9583e)
 
